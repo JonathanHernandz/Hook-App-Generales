@@ -1,23 +1,23 @@
 # React + Vite
 
-*Profundizar en el tema de los Hooks
+- Profundizar en el tema de los Hooks
 
-Crear otros customHooks
+- Crear otros customHooks
 
-useState
+- useState
 
-useCounter - Personalizado
+- useCounter - Personalizado
 
-useEffect y sus precauciones
+- useEffect y sus precauciones
 
-useRef
+- useRef
 
-useFetch - Personalizado + optimizaciones
+- useFetch - Personalizado + optimizaciones
 
-useLayoutEffect
+- useLayoutEffect
 
-Memo
+- Memo
 
-useMemo
+- useMemo
 
-useCallback
+- useCallback
