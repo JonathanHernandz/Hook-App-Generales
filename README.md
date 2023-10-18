@@ -21,3 +21,13 @@
 - useMemo
 
 - useCallback
+
+# useReducer
+
+- Reducers
+
+- Teoría de un reducer
+
+- Aplicación de TODOs
+
+- CRUD local
